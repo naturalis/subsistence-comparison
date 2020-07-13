@@ -39,4 +39,6 @@ vignettes/*.pdf
 .Renviron
 
 #mypy
-.Rproj
+subsistence-comparison.Rproj
+Rplots.pdf
+
