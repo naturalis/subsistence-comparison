@@ -1,0 +1,25 @@
+state,category,SCCS_variable,notes
+1,animals,SCCS1486,
+1,animals,SCCS1487,
+1,animals,SCCS1488,
+1,animals,SCCS1521,
+1,animals,SCCS1520,
+1,animals,SCCS1519,
+1,animals,SCCS1518,
+1,animals,SCCS1517,
+1,animals,SCCS1516,
+1,animals,SCCS1515,
+1,animals,SCCS1514,
+1,animals,SCCS6,
+1,animals,SCCS244,
+1,plants,SCCS1123,
+1,plants,SCCS1349,
+1,plants,SCCS1350,
+2,plants,SCCS1125,
+2,plants,SCCS1445,
+2,plants,SCCS1446,
+2,animals,,"determined from annotations as '(minor)', for some animals"
+4,plants,SCCS4,
+4,plants,SCCS233,
+4,animals,SCCS6 ,"also see state 1: sometimes specific, sometimes combined"
+4,animals,SCCS244,"also see state 1: sometimes specific, sometimes combined"

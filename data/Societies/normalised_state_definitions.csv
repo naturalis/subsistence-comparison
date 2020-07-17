@@ -1,0 +1,5 @@
+state,definition
+1,"an observation of major usage, directly from D-PLACE (see sccs_vars_for_states)"
+2,"minor usage, directly from D-PLACE"
+3,"exact species unspecified in D-PLACE, e.g. ""roots/tubers"""
+4,secondarily determined by literature study
