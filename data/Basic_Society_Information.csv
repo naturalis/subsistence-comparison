@@ -1,0 +1,187 @@
+D-PLACE_id,xd_id,Name,alt_names_by_society,Glottocode,Language,Language-Family,main_focal_year,Latitude,Longitude,Continent
+SCCS1,xd3,Nama,Khoekhoe/ Namaqua/ Nama Hottentot,nama1265,Nama,Khoe-Kwadi,1860,-27.5,17,Southern Africa
+SCCS10,xd81,Luguru,Waluguru,lugu1238,Luguru,Atlantic-Congo,1925,-6.83,37.67,East Tropical Africa
+SCCS100,xd881,Tikopia,,tiko1237,Tikopia,Austronesian,1930,-12.29,168.83,Southwestern Pacific
+SCCS101,xd869,Bunlap,Pentecost,saaa1241,Sa,Austronesian,1953,-15.95,168.22,Southwestern Pacific
+SCCS102,xd867,Mbau Fijians,,bauu1243,Bau (Fijian),Austronesian,1840,-18,178.58,Southwestern Pacific
+SCCS103,xd871,Ajie,,ajie1238,Aji‰,Austronesian,1845,-21.33,165.67,Southwestern Pacific
+SCCS104,xd891,M?ori,Maori,maor1246,Maori,Austronesian,1820,-35.33,174.17,New Zealand
+SCCS105,xd892,Marquesans,,nort2845,North Marquesan,Austronesian,1800,-8.92,-140.17,South-Central Pacific
+SCCS106,xd880,Upolu Samoans,Western Samoans/ Upolu,samo1305,Samoan,Austronesian,1829,-13.94,-171.77,Southwestern Pacific
+SCCS107,xd829,Makin,Gilbertese,bana1287,Banaban,Austronesian,1890,3.38,172.99,Southwestern Pacific
+SCCS108,xd832,Marshallese,,rata1243,Ratak,Austronesian,1900,6.28,169.49,Northwestern Pacific
+SCCS109,xd833,Trukese,Chuukese,chuu1238,Chuukese,Austronesian,1947,7.34,151.6,Northwestern Pacific
+SCCS11,xd109,Kikuyu,Aikikuyu,kiku1240,Kikuyu,Atlantic-Congo,1920,-0.67,37.17,East Tropical Africa
+SCCS110,xd837,Yapese,,yape1248,Yapese,Austronesian,1910,9.52,138.16,Northwestern Pacific
+SCCS111,xd824,Palauans,,pala1344,Palauan,Austronesian,1947,7.5,134.5,Northwestern Pacific
+SCCS112,xd743,Ifugao,,tuwa1243,Tuwali Ifugao,Austronesian,1910,16.83,121.17,Malesia
+SCCS113,xd732,Atayal,,atay1247,Atayal,Austronesian,1930,24.33,120.75,Eastern Asia
+SCCS114,xd643,Chekiang,Chinese,wuch1236,Wu Chinese,Sino-Tibetan,1936,31,120.08,China
+SCCS115,xd646,Manchu,,manc1252,Manchu,Tungusic,1915,50,125.5,China
+SCCS116,xd638,Koreans,,kore1280,Korean,Koreanic,1947,37.6,126.42,Eastern Asia
+SCCS117,xd648,Japanese,,nucl1643,Japanese,Japonic,1950,34.67,133.67,Eastern Asia
+SCCS118,xd635,Ainu,Ainu (Hokkaido)/ Hokkaido,ainu1240,Hokkaido Ainu,Ainu,1880,42.83,143,Eastern Asia
+SCCS119,xd617,Nivkh,Gilyak,gily1242,Nivkh,,1890,53,142,Russian Far East
+SCCS12,xd124,Ganda,Baganda,gand1255,Ganda,Atlantic-Congo,1875,0.33,32.5,East Tropical Africa
+SCCS120,xd634,Yukaghir,,nort2745,Northern Yukaghir,Yukaghir,1850,64.75,153.5,Russian Far East
+SCCS121,xd631,Chukchi,lygoravetlyan/ Ankalyn/ Chavchu/ Chukchee,chuk1273,Chukchi,Chukotko-Kamchatkan,1900,66.5,179.6,Russian Far East
+SCCS122,xd1066,Deg Xit'an,Ingalik,dege1248,Degexit'an,Athabaskan-Eyak-Tlingit,1885,62.5,-159.5,Subarctic America
+SCCS123,xd1067,Aleut,Unagan,east2533,Eastern Aleut,Eskimo-Aleut,1824,55,-162.85,Subarctic America
+SCCS124,xd1022,Copper Inuit,Kitlinermiut/ Copper Eskimo,copp1244,Inuinnaqtun,Eskimo-Aleut,1915,68.72,-112.53,Subarctic America
+SCCS125,xd1048,Montagnais,Innu/ Naskapi,mont1268,Montagnais,Algic,1910,50,-74,Eastern Canada
+SCCS126,xd1058,Mi'kmaq,Micmac,mikm1235,Mi'kmaq,Algic,1650,46.99,-65,Eastern Canada
+SCCS127,xd1049,Northern Saulteaux,N. Saulteaux/ North Sauteaux,alba1270,Albany River Ojibwa,Algic,1930,52,-95.5,Western Canada
+SCCS128,xd1034,DeneTha,Slave/ Deh Cho (Southern Slavey)/ Slavey/ Dene (distinguish from speakers of the Dene language),sout2959,South Slavey,Athabaskan-Eyak-Tlingit,1940,62,-122,Subarctic America
+SCCS129,xd1056,Kaska,Nahane,kask1239,Kaska,Athabaskan-Eyak-Tlingit,1900,60,-131,Subarctic America
+SCCS13,xd5,Mbuti,Sua/ BaSua/ Kango/ BaKango/ Bambuti/ BaMbuti Pygmies,bila1255,Bila,Atlantic-Congo,1950,1.5,28.33,West-Central Tropical Africa
+SCCS130,xd1102,Eyak,dAXunhyuu,eyak1241,Eyak,Athabaskan-Eyak-Tlingit,1890,60.5,-145,Subarctic America
+SCCS131,xd1068,Haida,,nort2938,Northern Haida,Haida,1875,54,-132.5,Western Canada
+SCCS132,xd1106,Nuxalk,Nuxalkmc/ Bellacoola/ Bilqula/ Bella Coola,bell1243,Bella Coola,Salishan,1880,52.33,-126.5,Western Canada
+SCCS133,xd1079,Twana,,twan1247,Twana,Salishan,1860,47.43,-123.25,Northwestern U.S.A.
+SCCS134,xd1101,Yurok,,yuro1248,Yurok,Algic,1850,41.5,-124,Southwestern U.S.A.
+SCCS135,xd1116,Eastern Pomo,Clear Lake Pomo/ Eastern Pomo,east2545,Eastern Pomo,Pomoan,1850,39,-123,Southwestern U.S.A.
+SCCS136,xd1123,Southern Valley Yokuts,Lake Yokuts/ Tachi Yokuts/ Chunut Yokuts,vall1251,Valley Yokuts,Yokutsan,1850,35,-119.5,Southwestern U.S.A.
+SCCS137,xd1155,Wadadokado,Paiute/ Northern Paiute,nort1551,North Northern Paiute,Uto-Aztecan,1870,43.5,-119,Northwestern U.S.A.
+SCCS138,xd1139,Klamath,,klam1254,Klamath-Modoc,,1860,42.63,-121.67,Northwestern U.S.A.
+SCCS139,xd1205,Kutenai,Ktunaxa/ Kootenay/ Kootenai,kute1249,Kutenai,,1890,49,-116.67,Western Canada
+SCCS14,xd160,Nkundo,,nkun1238,Nkundo,Atlantic-Congo,1930,-0.75,19.17,West-Central Tropical Africa
+SCCS140,xd1208,Gros Ventre,A'ani/ A'aninin/ Haaninin,gros1243,Gros Ventre,Algic,1880,48,-108,Northwestern U.S.A.
+SCCS141,xd1214,Hidatsa,,hida1246,Hidatsa,Siouan,1836,47,-101,North-Central U.S.A.
+SCCS142,xd1240,Pawnee,,pawn1254,Pawnee,Caddoan,1867,42,-100,North-Central U.S.A.
+SCCS143,xd1237,Omaha,Dhegiha,omah1248,Omaha,Siouan,1860,41.43,-96.5,North-Central U.S.A.
+SCCS144,xd1244,Huron,Bear and Cord Peoples/ Wendat/ Ouendat/ Attignaouantan/ Attinniaoenten/ Attigneenongnahac/ Hatingeennonniahak,wyan1247,Wyandot,Iroquoian,1634,44.5,-79,Eastern Canada
+SCCS145,xd1252,Muscogee,Creek/ Taskigi Creek,cree1270,Creek,Muskogean,1800,32.93,-86,Southeastern U.S.A.
+SCCS146,xd1256,Natchez,,natc1249,Natchez,,1718,31.5,-91.42,Southeastern U.S.A.
+SCCS147,xd1222,Comanche,,coma1245,Comanche,Uto-Aztecan,1870,34,-101.5,South-Central U.S.A.
+SCCS148,xd1259,Chiricahua,Chiricahua Apache/ Eastern Apache,mesc1238,Mescalero-Chiricahua Apache,Athabaskan-Eyak-Tlingit,1870,32,-109.5,Southwestern U.S.A.
+SCCS149,xd1280,Zuni,,zuni1245,Zuni,,1880,35.67,-108.75,South-Central U.S.A.
+SCCS15,xd173,Banen,Banyin,tune1261,Tunen,Atlantic-Congo,1935,4.67,10.8,West-Central Tropical Africa
+SCCS150,xd1163,Havasupai,Plateau Yuma,hava1249,Havasupai,Cochimi-Yuman,1918,35.83,-112.17,Southwestern U.S.A.
+SCCS151,xd1287,Tohono O'odham,Papago,toho1246,Tohono O'odam,Uto-Aztecan,1910,32,-112,Southwestern U.S.A.
+SCCS152,xd1288,Huichol,WixÇ­rika,huic1243,Huichol,Uto-Aztecan,1890,22,-105,Mexico
+SCCS153,xd1301,Aztec,Aztec of Tenochtitlan,clas1250,Classical Nahuatl,Uto-Aztecan,1520,19,-99.17,Mexico
+SCCS154,xd1302,Sierra Popoluca,Popoluca/ Soteapanec Zoque/ Soteapan Zoque/ Soteapaneco/ Soteapan Soke,high1276,Highland Popoluca,Mixe-Zoque,1940,18.25,-94.83,Mexico
+SCCS155,xd1313,K'iche',Quiche,kich1262,K'iche',Mayan,1930,15,-91,Central America
+SCCS156,xd1325,Miskito,MÇðskitu/ Mosquito,misk1235,M¡skito,Misumalpan,1921,15,-83,Central America
+SCCS157,xd1321,Bribri,Talamanca,brib1243,Bribri,Chibchan,1917,9,-83.25,Central America
+SCCS158,xd1309,Guna,Dule/ Tule/ Cuna/ Kuna,bord1248,Border Kuna,Chibchan,1927,9.25,-78.5,Central America
+SCCS159,xd1331,Wayuu,Goajiro,wayu1243,Wayuu,Arawakan,1947,11.92,-71.75,Western South America
+SCCS16,xd320,Tiv,Munshi,tivv1240,Tiv,Atlantic-Congo,1920,7.25,9,West Tropical Africa
+SCCS160,xd1334,Haitians,,hait1244,Haitian,Indo-European,1935,18.83,-72.17,Caribbean
+SCCS161,xd1326,Callinago,,isla1278,Island Carib,Arawakan,1650,15.41,-61.27,Caribbean
+SCCS162,xd1335,Warao,Warrau,wara1303,Warao,,1935,9.08,-62,Northern South America
+SCCS163,xd1361,Yanomami,Yanomamo/ Yanoama,yano1261,Yanomam”,Yanomamic,1965,2.42,-65,Northern South America
+SCCS164,xd1346,Barama River Carib,Barama Carib/ Carib,mura1272,Murato,Cariban,1932,7.42,-60.17,Northern South America
+SCCS165,xd1349,Saramaccan,Saramaccan of Suriname/ Saramacca/ Bush Negroes,sara1340,Saramaccan,Indo-European,1928,3.5,-55.75,Northern South America
+SCCS166,xd1353,Munduruku,Wuy Jugu/ Mundurucu,mund1330,Munduruk£,Tupian,1850,-6.5,-56.5,Brazil
+SCCS167,xd1369,Cubeo,Jiwa/ Tucano,cube1242,Cubeo,Tucanoan,1939,1.25,-70.5,Western South America
+SCCS168,xd1376,Chachi,Cayapa,chac1249,Cha'palaa,Barbacoan,1908,1,-79,Western South America
+SCCS169,xd1367,Shuar,Jivaro,shua1257,Shuar,Chicham,1920,-3,-78,Western South America
+SCCS17,xd187,Igbo,Ibo,nucl1417,Igbo,Atlantic-Congo,1935,5.5,7.33,West Tropical Africa
+SCCS170,xd1372,Amahuaca,,amah1246,Amahuaca,Pano-Tacanan,1960,-10.33,-72.25,Western South America
+SCCS171,xd1374,Inca,,cusc1236,Cusco Quechua,Quechuan,1530,-13.5,-72,Western South America
+SCCS172,xd1375,Aymara,,cent2142,Central Aymara,Aymaran,1940,-16,-65.75,Western South America
+SCCS173,xd1362,Sirion¢,MiÇ­/ Siriono,siri1273,Sirion¢,Tupian,1942,-14.5,-63.5,Western South America
+SCCS174,xd1401,Nambikwara,Nambicura,sout2994,Southern Nambiku ra,Nambiquaran,1940,-13,-58.75,Brazil
+SCCS175,xd1399,Trumai,Ho kod ke,trum1247,Trumai,,1938,-11.83,-53.67,Brazil
+SCCS176,xd1412,Canela,Ramcocamecra/ Timbira/ Canella,cane1242,Canela-Krah“,Nuclear-Macro-Je,1915,-6.5,-46,Brazil
+SCCS177,xd1416,Tupinamb ,Tupinamba,tupi1273,Tupinamb ,Tupian,1550,-22.79,-44.5,Brazil
+SCCS178,xd1413,Aimor‚,Nac-nanuk/ Nac-poruk/ Botocudo,kren1239,Krenak,Nuclear-Macro-Je,1884,-19,-42.5,Brazil
+SCCS179,xd1409,Shavante,,xava1240,Xav nte,Nuclear-Macro-Je,1958,-13.5,-51.5,Brazil
+SCCS18,xd186,Fon,Dahomey/ Dahomeans,fonn1241,Fon,Atlantic-Congo,1890,7.2,1.91,West Tropical Africa
+SCCS180,xd1411,Aweikoma,Xokleng/ Shokleng/ Botocudo of Santa Catarina/ Bugre/ Kaingang of Santa Catarina (though Aweikoma and Kaingang today considered separate groups),xokl1240,Xokleng,Nuclear-Macro-Je,1932,-28,-50,Brazil
+SCCS181,xd1408,Cayua,AbÇ­/ Cayua/ Caingua/ GuaranÇð/ Guarani,mbya1239,Mby  Guaran¡,Tupian,1890,-23.5,-55,Brazil
+SCCS182,xd1396,Lengua,,leng1262,Lengua,Lengua-Mascoy,1889,-23,-58.5,Southern South America
+SCCS183,xd1390,Abip¢n,Abipon/ Abipones,abip1241,Abipon,Guaicuruan,1750,-28,-59.5,Southern South America
+SCCS184,xd1384,Mapuche,,mapu1245,Mapudungun,Araucanian,1950,-38.5,-72.58,Southern South America
+SCCS185,xd1386,Tehuelche,Patagon,tehu1242,Tehuelche,Chonan,1870,-40.5,-68,Southern South America
+SCCS186,xd1383,Yahgan,,yama1264,Y mana,,1865,-55.5,-69.5,Southern South America
+SCCS19,xd208,Ashanti,Twi,asan1239,Asante,Atlantic-Congo,1895,7,-1.5,West Tropical Africa
+SCCS2,xd1,!Kung,Kung Bushmen/ !Kung (Was Nyae)/ Was Nyae,juho1239,South-Eastern Ju,Kxa,1950,-19.83,20.58,Southern Africa
+SCCS20,xd230,Mende,,mend1266,Mende (Sierra Leone),Mande,1945,7.83,-12,West Tropical Africa
+SCCS21,xd469,Wolof,,nucl1347,Wolof,Atlantic-Congo,1950,13.75,-15.33,West Tropical Africa
+SCCS22,xd244,Bambara,Bamana,bamb1269,Bambara,Mande,1902,12.5,-7,West Tropical Africa
+SCCS23,xd277,Tallensi,,taln1239,Talni,Atlantic-Congo,1934,10.66,-0.57,West Tropical Africa
+SCCS24,xd480,Songhai,,koyr1242,Koyraboro Senni Songhai,Songhay,1940,16.58,-1.67,West Tropical Africa
+SCCS25,xd474,Wodaabe Fulani,Pastoral Fulani/ Wodaabe,boro1274,Bororo of Kano and Zaria,Atlantic-Congo,1951,15,7.5,West Tropical Africa
+SCCS26,xd476,Zazzagawa Hausa,Hausa/ Zazzagawa,araw1280,Arawa,Afro-Asiatic,1900,10.5,7.5,West Tropical Africa
+SCCS27,xd383,Masa,Massa,masa1322,Masana,Afro-Asiatic,1910,10.5,15.5,Northeast Tropical Africa
+SCCS28,xd359,Azande,Niam-Niam,zand1248,Zande,Atlantic-Congo,1905,5.08,28.25,Northeast Tropical Africa
+SCCS29,xd466,Fur,Darfur,furr1244,Fur,Furan,1880,13.5,25.5,Northeast Tropical Africa
+SCCS3,xd27,Tsonga,Thonga/ Tonga/ Vatsonga/ Bathonga,tson1249,Tsonga,Atlantic-Congo,1895,-25.83,32.33,South Tropical Africa
+SCCS30,xd338,Otoro,Otoro Nuba/ Nuba,otor1240,Otoro,Heibanic,1930,11.33,30.67,Northeast Tropical Africa
+SCCS31,xd380,Shilluk,,shil1265,Shilluk,Nilotic,1910,9.75,31.5,Northeast Tropical Africa
+SCCS32,xd378,Mao,,hozo1236,Hozo,Blue Nile Mao,1939,9.27,34.67,Northeast Tropical Africa
+SCCS33,xd438,Kafa,Kafecho/ Kaffa,kafa1242,Kafa,Ta-Ne-Omotic,1905,7.27,36.5,Northeast Tropical Africa
+SCCS34,xd395,Maasi,Masai,masa1300,Masai,Nilotic,1900,-3.5,36.75,East Tropical Africa
+SCCS35,xd415,Konso,,kons1243,Konso,Afro-Asiatic,1935,5.25,37.5,Northeast Tropical Africa
+SCCS36,xd426,Somali,,nort3051,Northern Somali,Afro-Asiatic,1900,9,47.25,Northeast Tropical Africa
+SCCS37,xd455,Amhara,,amha1245,Amharic,Afro-Asiatic,1953,12.5,37.75,Northeast Tropical Africa
+SCCS38,xd445,Blin,Bogo/ Belen/ Bilin,bili1260,Bilin,Afro-Asiatic,1855,15.75,38.75,Northeast Tropical Africa
+SCCS39,xd507,Barabra,Kenuzi Nubians,kenu1236,Kenuzi-Dongola,Nubian,1900,23,39.11,Arabian Peninsula
+SCCS4,xd26,Lozi,,lozi1239,Lozi,Atlantic-Congo,1900,-16,23.5,South Tropical Africa
+SCCS40,xd498,Teda,Toubou,teda1241,Tedaga,Saharan,1950,20.5,17.5,Northeast Tropical Africa
+SCCS41,xd506,Tuareg Ahaggar,Tuareg,hogg1238,Hoggar,Afro-Asiatic,1900,23,6.5,Northern Africa
+SCCS42,xd521,Riffians,,tari1263,Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,Afro-Asiatic,1926,34.92,-3.25,Northern Africa
+SCCS43,xd518,Egyptians,Fellahin/ Fellaheen,egyp1253,Egyptian Arabic,Afro-Asiatic,1950,24.75,33,Northern Africa
+SCCS44,xd589,Hebrews,,anci1244,Ancient Hebrew,Afro-Asiatic,-621,31.18,34.92,Western Asia
+SCCS45,xd590,Babylonians,,akka1240,Akkadian,Afro-Asiatic,-1750,32.58,44.75,Western Asia
+SCCS46,xd588,Rwala,Rwala Bedouin,east2690,Eastern Egyptian Bedawi Arabic,Afro-Asiatic,1913,33.25,38.5,Western Asia
+SCCS47,xd581,Turks,,nucl1301,Turkish,Turkic,1950,39.33,34.25,Western Asia
+SCCS48,xd528,Gheg,Albanians,gheg1238,Gheg Albanian,Indo-European,1910,42,20.17,Southeastern Europe
+SCCS49,xd530,Ancient Romans,Romans,lati1261,Latin,Indo-European,110,41.67,13.5,Southeastern Europe
+SCCS5,xd28,Mbundu,Banano/ Mbari/ Nano/ Ovimbundu,umbu1257,Umbundu,Atlantic-Congo,1890,-12.25,16.5,South Tropical Africa
+SCCS50,xd535,Spanish Basques,Spanish Basques,west1508,Western Low Navarrese,Basque,1934,43.25,-1.67,Southwestern Europe
+SCCS51,xd543,Irish,Gaelic,iris1253,Irish,Indo-European,1932,53.5,-10,Northern Europe
+SCCS52,xd544,Sami,Lapps,nort2671,North Saami,Uralic,1950,68.7,21.5,Northern Europe
+SCCS53,xd632,Yurak-Samoyeds,Nenets/ Yurak,nene1249,Tundra Nenets,Uralic,1894,68,51.5,Eastern Europe
+SCCS54,xd548,Russians,,russ1263,Russian,Indo-European,1955,52.67,41.33,Eastern Europe
+SCCS55,xd577,Abkhaz,,abkh1244,Abkhazian,Abkhaz-Adyge,1880,43.13,40.77,Caucasus
+SCCS56,xd575,Armenians,,nucl1235,Eastern Armenian,Indo-European,1843,40,44.5,Caucasus
+SCCS57,xd576,Kurd,,cent1972,Central Kurdish,Indo-European,1951,36.5,44.5,Western Asia
+SCCS58,xd605,Basseri,,bass1257,Basseri,Indo-European,1958,29,53,Western Asia
+SCCS59,xd600,Punjabi,Punjabi (West),west2386,Western Panjabi,Indo-European,1950,32.5,74,Indian Subcontinent
+SCCS6,xd41,Suku,,suku1259,Suku,Atlantic-Congo,1920,-6,18,West-Central Tropical Africa
+SCCS60,xd679,Madia,Maria Gond/ Gond,mari1414,Maria (India),Dravidian,1938,19.63,80.92,Indian Subcontinent
+SCCS61,xd680,Toda,,toda1252,Toda,Dravidian,1900,11.5,76.5,Indian Subcontinent
+SCCS62,xd661,Santal,Santhal/ Saontal,sant1410,Santali,Austroasiatic,1940,23.5,87.17,Indian Subcontinent
+SCCS63,xd663,Uttar Pradesh,,bhoj1244,Bhojpuri,Indo-European,1945,25.92,83,Indian Subcontinent
+SCCS64,xd654,Burusho,,buru1296,Burushaski,,1934,36.43,74.58,Indian Subcontinent
+SCCS65,xd609,Kazakh,Kazak,kaza1248,Kazakh,Turkic,1885,42.5,75.5,Middle Asia
+SCCS66,xd611,Khalka,Xanx/ Khalka Mongols,halh1238,Halh Mongolian,Mongolic,1920,47.17,96.08,Mongolia
+SCCS67,xd645,Lolo,Yi/ Nosu,sich1238,Sichuan Yi,Sino-Tibetan,1910,27.5,103.5,China
+SCCS68,xd655,Lepcha,Rong,lepc1244,Lepcha,Sino-Tibetan,1937,27.5,89,Indian Subcontinent
+SCCS69,xd696,Garo,A.Chik,garo1247,Garo,Sino-Tibetan,1955,26,91,Indian Subcontinent
+SCCS7,xd55,Bemba,Awemba,town1238,Town Bemba,Atlantic-Congo,1897,-10.5,30.5,South Tropical Africa
+SCCS70,xd710,Maras,Lakher,mara1382,Mara Chin,Sino-Tibetan,1930,22.33,93,Indian Subcontinent
+SCCS71,xd709,Burmese,Bamar people,nucl1310,Burmese,Sino-Tibetan,1965,22,95.67,Indo-China
+SCCS72,xd716,Lamet,,lame1256,Lamet,Austroasiatic,1940,20,100.67,Indo-China
+SCCS73,xd726,Annamese,Vietnamese,viet1252,Vietnamese,Austroasiatic,1930,20.5,106.25,Indo-China
+SCCS74,xd717,Rade,Rhade,rade1240,Rade,Austronesian,1962,13,108,Indo-China
+SCCS75,xd722,Ancient Khmer,Khmer,oldk1249,Old Khmer,Austroasiatic,1292,13,103.83,Indo-China
+SCCS76,xd731,Thai,Siamese/ Central Thai,thai1261,Thai,Tai-Kadai,1955,14,100.85,Indo-China
+SCCS77,xd725,Semang,,kens1248,Kensiu,Austroasiatic,1925,5,101.25,Malesia
+SCCS78,xd691,Nicobarese,Holchu,carn1240,Car Nicobarese,Austroasiatic,1870,7,93.75,Indo-China
+SCCS79,xd686,Andamanese,Big Andaman Island/ Andamese,akab1249,Aka-Bea,Great Andamanese,1860,12,93,Indo-China
+SCCS8,xd123,Nyakyusa,,nyak1261,Nyakyusa,Atlantic-Congo,1934,-9.5,34,South Tropical Africa
+SCCS80,xd690,Vedda,Wanniyalaeto/ Veddah,vedd1240,Veddah,Indo-European,1860,7.75,81.25,Indian Subcontinent
+SCCS81,xd689,Tanala,,tana1285,Tanala,Austronesian,1925,-22,48,Western Indian Ocean
+SCCS82,xd723,Negri Sembilan,Negeri Sembilan,nege1240,Negeri Sembilan Malay,Austronesian,1958,2.58,102.25,Malesia
+SCCS83,xd751,Javanese,,java1254,Javanese,Austronesian,1954,-7.7,112.22,Malesia
+SCCS84,xd752,Balinese,,bali1278,Balinese,Austronesian,1958,-8.5,115.33,Malesia
+SCCS85,xd750,Iban,Dayak/ Sea Dayak,iban1264,Iban,Austronesian,1950,2,113,Malesia
+SCCS86,xd736,Badjau Tawi-Tawi,Tawi-Tawi Badjaw/ Badjau,sout2918,Southern Sama,Austronesian,1963,5,120,Malesia
+SCCS87,xd767,Toradja,,pamo1252,Pamona,Austronesian,1910,-2,121,Malesia
+SCCS88,xd760,Tobelorese,Togutil,tobe1252,Tobelo,North Halmahera,1900,2,127.94,Malesia
+SCCS89,xd764,Alorese,Abui,abui1241,Abui,Timor-Alor-Pantar,1938,-8.33,124.67,Malesia
+SCCS9,xd9,Hadza,Hadzabe/ Hatsa Kindiga/ Hadza/ Kindiga,hadz1240,Hadza,,1930,-3.75,35.18,East Tropical Africa
+SCCS90,xd778,Tiwi,,tiwi1244,Tiwi,,1929,-11.38,131,Australia
+SCCS91,xd772,Northern Aranda,Aranda (Northern)/ Northern Arenda/ Arunta,east2379,Eastern Arrernte,Pama-Nyungan,1896,-24.25,133.5,Australia
+SCCS92,xd823,Orokaiva,,orok1269,Orokaiva,Nuclear Trans New Guinea,1925,-8.5,148,Papuasia
+SCCS93,xd794,Kimam,Frederik-Hendrik Islanders,kima1246,Kimaama,Kolopom,1960,-7.5,138.5,Papuasia
+SCCS94,xd785,Mee,Kapauku,ekar1243,Ekari,Nuclear Trans New Guinea,1955,-4,136,Papuasia
+SCCS95,xd788,Kwoma,,kwom1262,Kwoma,Sepik,1937,-4.17,142.67,Papuasia
+SCCS96,xd861,Manus,,tita1241,Titan,Austronesian,1929,-2.17,147.17,Papuasia
+SCCS97,xd856,Lesu,New Irelanders,nots1237,Notsi,Austronesian,1930,-2.71,151,Papuasia
+SCCS98,xd852,Trobriands,,kili1267,Kilivila,Austronesian,1914,-8.54,151.01,Papuasia
+SCCS99,xd841,Siuai,,siwa1245,Siwai,South Bougainville,1939,-6.76,155.45,Papuasia
